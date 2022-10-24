@@ -12,7 +12,7 @@ export const news = [
   {
     id: 2,
     title: 'The Downsides of AI Artistry',
-    paragraph: '  What are the possible adverse effects of on-demand AI image generation?'
+    paragraph: 'What are the possible adverse effects of on-demand AI image generation?'
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const newsWithImage = [
     image: retroPc,
     cod: '01',
     title: 'Reviving Retro PCs',
-    paragraph: 'What happens when old PCs are given modern upgrades?s'
+    paragraph: 'What happens when old PCs are given modern upgrades?'
   },
   {
     id: 2,
