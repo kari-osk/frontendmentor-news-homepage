@@ -13,7 +13,7 @@ const NewsCard = ({ data }) => {
 
 const SideNew = () => {
   return (
-    <div className='w-full text-left bg-blue text-light p-4'>
+    <div className='w-[352px] text-left bg-blue text-light p-4'>
       <h2 className='text-bold text-yellow text-3xl'>New</h2>
       {
         news.map(data => (
