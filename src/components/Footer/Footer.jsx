@@ -3,7 +3,7 @@ import { LinkedinFilled, GithubFilled } from '@ant-design/icons'
 
 const Footer = () => {
   return (
-    <div class="attribution text-sm text-center text-dark-gray py-4">
+    <div className="attribution text-sm text-center text-dark-gray py-4">
       <h4>
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" rel="noreferrer" target="_blank">Frontend Mentor</a>.
       </h4>
