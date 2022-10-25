@@ -7,17 +7,20 @@ export const news = [
   {
     id: 1,
     title: 'Hydrogen VS Electric Cars',
-    paragraph: 'Will hydrogen-fueled cars ever catch up to EVs?'
+    paragraph: 'Will hydrogen-fueled cars ever catch up to EVs?',
+    line: true,
   },
   {
     id: 2,
     title: 'The Downsides of AI Artistry',
-    paragraph: 'What are the possible adverse effects of on-demand AI image generation?'
+    paragraph: 'What are the possible adverse effects of on-demand AI image generation?',
+    line: true,
   },
   {
     id: 3,
     title: 'Is VC Funding Drying Up?',
-    paragraph: 'Private funding by VC firms is down 50% YOY. We take a look at what that means.'
+    paragraph: 'Private funding by VC firms is down 50% YOY. We take a look at what that means.',
+    line: false
   }
 ]
 
