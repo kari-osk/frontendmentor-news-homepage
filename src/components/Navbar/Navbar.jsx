@@ -24,6 +24,7 @@ const Navbar = () => {
             >
               <X className='w-8 h-8 text-dark hover:text-red' />
             </div>
+
             <ul className="flex flex-col text-left placeholder:justify-between min-h-[250px]">
               <li className="text-dark my-4 hover:text-red hover: text-bold">
                 <a href="/">Home</a>
@@ -41,6 +42,7 @@ const Navbar = () => {
                 <a href="/categories">Categories</a>
               </li>
             </ul>
+
           </div>
         </section>
 

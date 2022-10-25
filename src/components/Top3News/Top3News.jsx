@@ -6,8 +6,8 @@ const Card = ({ data }) => {
     <div className='flex flex-row'>
       <img className='w-[100px] h-full object-cover' src={data.image} alt={data.title} />
       <div className='text-left pl-3 pr-3'>
-        <h2 className='text-3xl text-light-gray'>{data.cod}</h2>
-        <h3 className='text-base text-bold'>{data.title}</h3>
+        <h2 className='text-3xl font-bold text-light-gray'>{data.cod}</h2>
+        <h3 className='text-base font-bold'>{data.title}</h3>
         <p className='text-base text-dark-gray'>{data.paragraph}</p>
       </div>
     </div>
