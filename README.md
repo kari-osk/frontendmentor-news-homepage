@@ -35,10 +35,8 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- TailwindCss
-- ReactJs
 - Mobile-first workflow
+- Semantic HTML5 markup
 - [React](https://reactjs.org/) - JS library
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom) - React framework
 - [Phosphor-react](https://www.npmjs.com/package/phosphor-react) - Icons
