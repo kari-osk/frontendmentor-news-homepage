@@ -47,19 +47,19 @@ const Navbar = () => {
         </section>
 
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex">
-          <li className="text-dark my-4 hover:text-red hover: text-bold">
+          <li className="text-dark my-4 hover:underline p-1">
             <a href="/">Home</a>
           </li>
-          <li className="text-dark my-4 hover:text-red hover: text-bold">
+          <li className="text-dark my-4 hover:underline p-1">
             <a href="/new">New</a>
           </li>
-          <li className="text-dark my-4 hover:text-red hover: text-bold">
+          <li className="text-dark my-4 hover:underline p-1">
             <a href="/popular">Popular</a>
           </li>
-          <li className="text-dark my-4 hover:text-red hover: text-bold">
+          <li className="text-dark my-4 hover:underline p-1">
             <a href="/trending">Trending</a>
           </li>
-          <li className="text-dark my-4 hover:text-red hover: text-bold">
+          <li className="text-dark my-4 hover:underline p-1">
             <a href="/categories">Categories</a>
           </li>
         </ul>
