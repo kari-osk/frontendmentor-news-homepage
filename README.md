@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./src/assets/images/screenshot.png)
 
 ### Links
 
@@ -48,4 +48,4 @@ Users should be able to:
 ## Author
 
 - Linkedin - [Karina Osuka](www.linkedin.com/in/karinaosuka)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kari-osk)
+- Frontend Mentor - [@kari-osk](https://www.frontendmentor.io/profile/kari-osk)
