@@ -7,7 +7,7 @@ import Top3News from '../components/Top3News/Top3News'
 
 const Home = () => {
   return (
-    <div className='container'>
+    <div className='container mx-auto'>
       <Navbar />
       <Hero />
       <Top3News />
