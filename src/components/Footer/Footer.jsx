@@ -11,8 +11,8 @@ const Footer = () => {
         Coded by <a href="https://github.com/kari-osk/frontendmentor-news-homepage">Karina Osuka</a>.
       </h4>
       <div className='flex flex-row gap-3 justify-center items-center'>
-        <a className='text-[24px]' href='www.linkedin.com/in/karinaosuka'><LinkedinFilled /></a>
-        <a className='text-[24px]' href='https://github.com/kari-osk'><GithubFilled /></a>
+        <a className='text-[24px] hover:text-dark' href='www.linkedin.com/in/karinaosuka'><LinkedinFilled /></a>
+        <a className='text-[24px] hover:text-dark' href='https://github.com/kari-osk'><GithubFilled /></a>
       </div>
     </footer>
 
