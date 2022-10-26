@@ -22,7 +22,7 @@ const NewsCard = ({ data }) => {
 
 const SideNew = () => {
   return (
-    <div className='w-full text-left bg-blue text-light pt-4 px-4'>
+    <aside className='w-full text-left bg-blue text-light pt-4 px-4'>
       <h2 className='font-bold text-yellow text-3xl'>New</h2>
       {
         news.map(data => (
@@ -32,7 +32,7 @@ const SideNew = () => {
         ))
       }
 
-    </div>
+    </aside>
   )
 }
 

@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <div className="flex items-center justify-between py-8">
-      <a href='/' className='text-5xl font-serif font-bold'>W.</a>
+      <a id='logo' href='/' className='text-5xl font-serif font-bold'>W.</a>
 
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">

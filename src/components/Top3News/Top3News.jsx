@@ -16,8 +16,7 @@ const Card = ({ data }) => {
 
 const Top3News = () => {
   return (
-    // <div className='w-full flex flex-wrap gap-4 py-10'>
-    <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 py-10'>
+    <section className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 py-10'>
       {
         newsWithImage.map(data => (
           <div key={data.id}>
@@ -25,7 +24,7 @@ const Top3News = () => {
           </div>
         ))
       }
-    </div>
+    </section>
   )
 }
 
