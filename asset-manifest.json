@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontendmentor-news-homepage/static/css/main.f31f607e.css",
-    "main.js": "/frontendmentor-news-homepage/static/js/main.73e11f76.js",
+    "main.css": "/frontendmentor-news-homepage/static/css/main.0e583001.css",
+    "main.js": "/frontendmentor-news-homepage/static/js/main.9ce6d468.js",
     "static/media/image-web-3-mobile.jpg": "/frontendmentor-news-homepage/static/media/image-web-3-mobile.aff7a393740bc26b3651.jpg",
     "static/media/image-retro-pcs.jpg": "/frontendmentor-news-homepage/static/media/image-retro-pcs.4ecb8a36b05f012297a6.jpg",
     "index.html": "/frontendmentor-news-homepage/index.html",
-    "main.f31f607e.css.map": "/frontendmentor-news-homepage/static/css/main.f31f607e.css.map",
-    "main.73e11f76.js.map": "/frontendmentor-news-homepage/static/js/main.73e11f76.js.map"
+    "main.0e583001.css.map": "/frontendmentor-news-homepage/static/css/main.0e583001.css.map",
+    "main.9ce6d468.js.map": "/frontendmentor-news-homepage/static/js/main.9ce6d468.js.map"
   },
   "entrypoints": [
-    "static/css/main.f31f607e.css",
-    "static/js/main.73e11f76.js"
+    "static/css/main.0e583001.css",
+    "static/js/main.9ce6d468.js"
   ]
 }
